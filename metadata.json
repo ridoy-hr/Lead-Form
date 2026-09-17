@@ -1,0 +1,6 @@
+{
+  "name": "Manage Forms Dashboard",
+  "description": "A modern, clean, responsive forms management interface featuring interactive overview tables, form field configuration, rich text settings, and submission tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
